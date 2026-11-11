@@ -203,4 +203,4 @@ This repository serves as the official landing page for Estencel. The software i
 **Get the most recent version of Estencel today!**
 
 ---
-**Last updated:** 2026-11-11 08:50:26 UTC
+**Last updated:** 2026-11-11 16:52:21 UTC
